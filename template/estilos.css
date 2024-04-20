@@ -1,0 +1,26 @@
+
+.navbar-nav .nav-link {
+    color: orange; 
+}
+
+
+body {
+    color: orange; 
+}
+
+.nav-link.active {
+    color: black;
+    font-weight: bold; 
+}
+
+
+.navbar {
+    background-color: orange; 
+    padding: 10px; 
+}
+body {
+    background-image: url('../template/imagenes/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg');
+    background-size: no cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
